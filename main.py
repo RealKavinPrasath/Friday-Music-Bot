@@ -155,4 +155,4 @@ async def stop(ctx):
 async def friday(ctx):
   await ctx.send("Friday, at your service!") 
 
-client.run("OTQxOTA4Njc4ODU0OTkxODcy.Ygcy0A.mRI82Lgnn9CvuXp9Y1J4b9wJ6uM")
+client.run("token")
